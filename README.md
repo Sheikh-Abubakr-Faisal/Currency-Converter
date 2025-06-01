@@ -18,6 +18,10 @@ A real-time currency converter built using **HTML**, **CSS**, and **Vanilla Java
 
 ![Screenshot](Screenshot.png) 
 
+## 🎯 Live Demo
+
+[Visit Site](https://sheikh-abubakr-faisal.github.io/Currency-Converter/)
+
 ## 👨‍💻 Author
 
 **Sheikh Abubakr Faisal**  
